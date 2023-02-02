@@ -4,7 +4,7 @@ const SearchForm = () => {
   const { query, setQuery, error } = useGlobalContext1();
   return (
     <form className="search-form" onSubmit={(e) => e.preventDefault()}>
-      <h2>search movies</h2>
+      <h3>SEARCH MOVIES</h3>
       <input
         type="text "
         className="form-input"
