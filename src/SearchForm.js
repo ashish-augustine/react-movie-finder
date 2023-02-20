@@ -5,7 +5,7 @@ const SearchForm = () => {
   return (
     <form className="search-form" onSubmit={(e) => e.preventDefault()}>
       <h3>SEARCH MOVIES</h3>
-      <h5>Type your movies here..</h5>
+      <p>Type your movies here..</p>
       <input
         type="text "
         className="form-input"
