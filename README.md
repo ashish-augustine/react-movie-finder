@@ -1,10 +1,9 @@
 
 
-# Search Movies
+# Movie Finder
 
-Project in Action -  Search Movies   https://comfy-gnome-aad2de.netlify.app/ 
-
-#### Run The App Locally
+ 
+#### Available scripts
 
 ```sh
 npm run install && npm start
